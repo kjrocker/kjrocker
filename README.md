@@ -11,8 +11,6 @@ I'm currently open to challenging, fully remote work in any of my areas of exper
 Current areas of interest for me include:
 1. PostgreSQL, always.
 2. Open data of all types. Every project I have starts with open data.
-2. Non-profit work, especially in direct aid, education, and healthcare.
-3. History and any way I can integrate technology into studying it
-4. Foreign language learning and pedagogy
+2. Non-profit work, especially in education.
 
 I recently migrated away from Github for personal work and onto [my own dedicated forge](https://git.kehvyn.dev/kevin), but most important projects are mirrored here.
